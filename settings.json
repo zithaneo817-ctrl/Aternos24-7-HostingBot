@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
+    "ip": Rookiesmp.aternos.me
     "port": 44019,
     "version": "",
     "try-creative": false
